@@ -13,3 +13,4 @@ Im a bug and fixed;
 Im working
 im work again
 im so cool 
+you are beautiful
