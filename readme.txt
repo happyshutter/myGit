@@ -8,4 +8,5 @@ Creating a new branch is quick and simple.
 modify this file
 this is a bug;
 work finish
+Im a bug and fixed;
 
