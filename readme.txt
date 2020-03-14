@@ -12,5 +12,7 @@ Im a bug and fixed;
 
 Im working
 im work again
+77 so beautiful
 im so cool 
 you are beautiful
+
